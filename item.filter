@@ -4,11 +4,6 @@
 //║ Patch: Zincite	                         ║
 //║ By: KarmaNation	                         ║
 //╚══════════════════════════════════════════╝
-ItemDisplay[CLVL>79 GOLD<5000]:
-ItemDisplay[CLVL>59 GOLD<2500]:
-ItemDisplay[CLVL>44 GOLD<750]:
-ItemDisplay[CLVL>24 GOLD<250]:
-ItemDisplay[CLVL<25 GOLD<100]:
 ItemDisplay[cx5]: %RED%© %PURPLE%Corrupted Orb %RED%©
 ItemDisplay[maz]: %PURPLE%÷÷÷÷÷÷÷÷÷÷÷÷÷ %RED%TRIAL %PURPLE%÷÷÷÷÷÷÷÷÷÷÷÷÷
 ItemDisplay[ma1]: %RED%%NAME%
