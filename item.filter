@@ -51,7 +51,7 @@ ItemDisplay[CLVL>79 hp4]:
 ItemDisplay[CLVL>48 hp3]:
 ItemDisplay[CLVL>24 hp2]:
 ItemDisplay[CLVL>12 hp1]:
-ItemDisplay[CLVL>79 mp4]:
+ItemDisplay[CLVL>79 mp4]: %BLACK%¯ %BLUE%ð%BLACK% ¯
 ItemDisplay[CLVL>60 mp3]:
 ItemDisplay[CLVL>30 mp2]:
 ItemDisplay[CLVL>15 mp1]:
